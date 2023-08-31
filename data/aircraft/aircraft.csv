@@ -1,0 +1,6 @@
+﻿,Type,PAX,Range,TCO/hr,Speed,Runway,Sustainability
+WID,Widebody,280,13334000,10282.2,830,2600,-1
+NAR,Narrowbody,178,6500000,7453.96,830,2100,-1
+H2R,Hydrogen-electric regional,50,1500000,2407.880337,532,1180,0
+BER,Battery-electric regional,30,400000,1758.799551,532,1100,0
+BEC,Battery-electric commuter,9,463000,716.0826742,450,643,0
